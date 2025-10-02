@@ -73,8 +73,7 @@ docker rmi <nombre imagen>:<tag>
 
 Eliminar la imagen hello-world 
 
-<img width="652" height="55" alt="image" src="https://github.com/user-attachments/assets/dfcf616b-936c-4ca2-9955-95e417f36c97" />
-
+<img width="505" height="123" alt="image" src="https://github.com/user-attachments/assets/a39025ee-84ad-4900-8318-bd549f18965c" />
 
 -f: Es la opción para forzar la eliminación de la imagen incluso si hay contenedores en ejecución que utilizan esa imagen.
 Cuando eliminas una imagen Docker, Docker no elimina automáticamente los contenedores que se han creado a partir de esa imagen. Esto significa que, aunque hayas eliminado la imagen, el contenedor seguirá ejecutándose normalmente.  
